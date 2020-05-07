@@ -1,0 +1,18 @@
+.links:hover {
+  cursor: pointer;
+  background-color: #eee;
+}
+
+.orange {
+  background-color: #fad6a5;
+}
+
+.sidenav {
+  height: 100vh;
+}
+
+@media (max-width: 600px) {
+  .sidenav {
+    height: auto;
+  }
+}
